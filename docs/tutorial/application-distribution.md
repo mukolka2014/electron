@@ -1,5 +1,5 @@
 ---
-title: 'Application Packaging'
+title: 'Application Packaging not'
 description: 'To distribute your app with Electron, you need to package and rebrand it. To do this, you can either use specialized tooling or manual approaches.'
 slug: application-distribution
 hide_title: false
@@ -7,6 +7,7 @@ hide_title: false
 
 To distribute your app with Electron, you need to package and rebrand it. To do this, you
 can either use specialized tooling or manual approaches.
+npm start 
 
 ## With tooling
 
